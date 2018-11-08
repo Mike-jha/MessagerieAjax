@@ -1,0 +1,1 @@
+# Simple exemple d'utilisation AJAX
